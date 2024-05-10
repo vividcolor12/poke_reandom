@@ -9,6 +9,6 @@ export const Container = styled.div`
 `;
 
 export const PokeImage = styled.img`
-  max-width: 1000px; /* 최대 너비 설정 */
-  max-height: 1000px; /* 최대 높이 설정 */
+  width: 500px; /* 최대 너비 설정 */
+  height: 500px; /* 최대 높이 설정 */
 `;

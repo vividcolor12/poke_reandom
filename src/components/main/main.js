@@ -1,6 +1,7 @@
 import React from "react";
 import { Container } from "./styled";
 import Card from "../card/card";
+import { Navigate } from "react-router-dom";
 
 export const Main = () => {
   return (
